@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kickstart2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kickstart2/static/js/main.702f2fca.chunk.js",
+    "main.js.map": "/kickstart2/static/js/main.702f2fca.chunk.js.map",
+    "runtime-main.js": "/kickstart2/static/js/runtime-main.89367f18.js",
+    "runtime-main.js.map": "/kickstart2/static/js/runtime-main.89367f18.js.map",
+    "static/js/2.9a068536.chunk.js": "/kickstart2/static/js/2.9a068536.chunk.js",
+    "static/js/2.9a068536.chunk.js.map": "/kickstart2/static/js/2.9a068536.chunk.js.map",
+    "static/js/3.f59903ae.chunk.js": "/kickstart2/static/js/3.f59903ae.chunk.js",
+    "static/js/3.f59903ae.chunk.js.map": "/kickstart2/static/js/3.f59903ae.chunk.js.map",
+    "index.html": "/kickstart2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kickstart2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9a068536.chunk.js.LICENSE.txt": "/kickstart2/static/js/2.9a068536.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kickstart2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89367f18.js",
+    "static/js/2.9a068536.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.702f2fca.chunk.js"
+  ]
+}
